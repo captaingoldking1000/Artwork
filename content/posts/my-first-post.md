@@ -7,4 +7,4 @@ draft: false
 
 When I did my first art it wasn't good because it needed more detail and colours so I started to practice. Here is one of my pictures when I was 9
 
-![Example image](/images/IMG_9229.jpg)
+![Example image](/Artwork/images/IMG_9229.jpg)
