@@ -2,3 +2,6 @@ baseURL = 'https://captaingoldking1000.github.io/Artwork'
 languageCode = 'en-us'
 title = 'Artwork'
 theme = "ananke"
+
+[params]
+recent_posts_number = 20
